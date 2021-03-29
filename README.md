@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Web technologies
 - 💞️ I’m looking forward to collaborate with you and on other github codes and examples.
+- I’m looking for job as front end developer or UI developer
 
 - 📫 How to reach me  +91 9640708288  ganeshroyal766@gmail.com
 
